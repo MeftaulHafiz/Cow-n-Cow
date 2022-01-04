@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    
+}
+.Green{
+    color: lawngreen;
+}
+h1{font-size: 50px;
+    
+}
+
+
+
+.half-width{
+    width: 40%;
+    
+}
+.half-width-image{
+    width: 100%
+}
+section{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+
+}
+.top-banner{
+    background-image: url(kindpng_296687.png);
+    width: none;
+}
